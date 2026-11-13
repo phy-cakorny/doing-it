@@ -1,0 +1,10 @@
+{
+  "description": "Helps developers turn rough app ideas into clear, design-aware prompts with contextual suggestions they can refine and copy into AI coding tools.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
